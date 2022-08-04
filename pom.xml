@@ -9,4 +9,8 @@
   <name>spring-cloud</name>
   <packaging>pom</packaging>
 
+  <modules>
+    <module>service-discovery</module>
+  </modules>
+
 </project>
